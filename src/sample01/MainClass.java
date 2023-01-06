@@ -7,6 +7,8 @@ public class MainClass {
 		
 		System.out.println("헬로우 자바");
 		
+		System.out.println("수정하였음");
+		
 		// 한 줄 주석문
 		
 		/*
